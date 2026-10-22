@@ -10,7 +10,7 @@ impl Default for SimParams {
     fn default() -> Self {
         Self {
             base_cost: 0.1,
-            food_decay_rate: 0.05,
+            food_decay_rate: 0.6,
         }
     }
 }
